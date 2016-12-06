@@ -1,0 +1,8 @@
+
+1 编写游戏应在目录：Platform\win32\src\game 中找对应的游戏目录
+
+2 游戏视图由 lyGameView.lua 开始
+
+3 接口使用方法可以问或参考其中代码写法（稍后会添加文档）
+
+4 Dbgview.exe 是打印显示工具
